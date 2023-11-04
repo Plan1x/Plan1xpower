@@ -10,6 +10,7 @@ How to download the library:
 3) Unzip the file.
 4) Open folder "libraries"
 5) Add the unziped file to the "libraries" folder.
+
 How to work with the library:
 1) First of all you have to create an object of type Boost
 For example:
