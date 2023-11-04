@@ -4,6 +4,7 @@ Welcome to my library.
 There are only 2 methods here, but i hope they will help you.
 I managed to speed up function digitalWrite 11 times!
 And pinMode became 2.5 times faster!
+
 How to download the library:
 1) Open "plan1xpower.h.zip" file.
 2) Press View raw (clicking this button will launch the instalation of the zip file).
