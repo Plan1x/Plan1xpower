@@ -23,5 +23,5 @@ digitalWrite is now object.write(uint8_t pin, uint8_t mode);
 pinMode is now object.pin_init(uint8_t pin, uint8_t mode);//Unfortunately I havent added INPUT_PULLUP mode yet
 4) Now the library is ready for the work(look at the example)
 # Bugs and shortcomings 
-P.S. If you find any bugs or shortcomings in my library, I would be grateful if you let me know about them.
+P.S. If you find any bugs or shortcomings in my library, I would be grateful if you let me know about it.
 My instagram: @v_a_n_4_e_k
