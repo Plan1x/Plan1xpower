@@ -1,4 +1,4 @@
-# Plan1xpower
+# Introduction 
 Hi! It`s great to see you here.
   Welcome to my library.
   There are only 2 methods here, but i hope they will help you.
